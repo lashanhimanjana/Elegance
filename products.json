@@ -2,7 +2,7 @@
    "products":[  
       {  
          "id":"1",
-         "name":"\u0110\u1ea7m x\u00f2e ren eo m\u00e0u xanh",
+         "name":"Apple Mobiles",
          "price":"350.000\u0111",
          "image":"https:\/\/3.imimg.com\/data3\/VK\/CE\/MY-15886877\/assets-powerstores-com-data-org-10593-media-img-source-edit-707103_edit-500x500.jpg"
       },
@@ -40,13 +40,13 @@
          "id":"7",
          "name":"\u00c1o s\u01a1 mi nam tay ng\u1eafn m\u00e0u tr\u1eafng",
          "price":"255.000\u0111",
-         "image":"http:\/\/www.thoitrangtichtac.com\/productimg\/7000\/6467\/79_Ao_so_mi_nam_tay_ngan_mau_trang_a6467.jpg"
+         "image":"https:\/\/3.imimg.com\/data3\/VK\/CE\/MY-15886877\/assets-powerstores-com-data-org-10593-media-img-source-edit-707103_edit-500x500.jpg"
       },
       {  
          "id":"8",
          "name":"\u00c1o kho\u00e1c n\u1ec9 n\u00f3n ph\u1ed1i m\u00e0u \u0111en x\u00e1m",
          "price":"200.000\u0111",
-         "image":"http:\/\/www.thoitrangtichtac.com\/productimg\/12000\/11138\/139_Ao_khoac_ni_non_phoi_mau_den_xam_b1138.jpg"
+         "image":"https:\/\/3.imimg.com\/data3\/VK\/CE\/MY-15886877\/assets-powerstores-com-data-org-10593-media-img-source-edit-707103_edit-500x500.jpg"
       }
    ]
 }
